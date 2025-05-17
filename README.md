@@ -23,7 +23,7 @@
 
 ## Data Visualizations
 
-###|| 📊 Patient Attendance Status:
+### || 📊 Patient Attendance Status:
 
 ### ✅ 59% attended on time
 
