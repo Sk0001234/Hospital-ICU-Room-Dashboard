@@ -23,25 +23,25 @@
 
 ## Data Visualizations
 
-### 📊 Patient Attendance Status:
+###|| 📊 Patient Attendance Status:
 
 ### ✅ 59% attended on time
 
 ### ❌ 41% experienced delays
 
-## 📉 Gender Distribution:
+## || 📉 Gender Distribution:
 
 ### 51% Female
 
 ### 49% Male
 
-## 🎂 Age Group Analysis:
+##|| 🎂 Age Group Analysis:
 
 ### Highest patient count: 20-29 years (2200)
 
 ### Lowest patient count: 70-79 years (1400)
 
-## 🏥 Department Referral Stats:
+## || 🏥 Department Referral Stats:
 
 ###  = General Practice	- 1840
 ###  = Orthopedics	- 995
@@ -126,3 +126,7 @@
 ### 📅 Conditional Formatting: Highlights key metrics, delays, or department trends.
 
 ### 📈 Pivot Tables: Summarizes admissions & referrals dynamically.
+
+## Summary
+
+### The Hospital ICU Room Dashboard provides a robust overview of patient statistics, admission rates, wait times, satisfaction levels, and departmental referrals. Despite a high satisfaction score, there are areas for optimization—especially concerning wait times and delayed patient attendance. By improving workflow efficiency, triage processes, and department coordination, the hospital can enhance ICU effectiveness and patient care.
